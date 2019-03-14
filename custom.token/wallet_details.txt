@@ -1,0 +1,12 @@
+Creating wallet: nirdesh
+Save password to use in the future to unlock this wallet.
+Without password imported keys will not be retrievable.
+"PW5Jfh2T34Cn8K28bEc1j7qsjhC4k3uLz68zhwAUXtzLfzg9Kdpix"
+Creating wallet: akash
+Save password to use in the future to unlock this wallet.
+Without password imported keys will not be retrievable.
+"PW5KbZeb9uCFQqhNSq3VKnczky1WrUgBBv1iJCownw8VqGqEPy4Jm"
+Creating wallet: rahulmalu
+Save password to use in the future to unlock this wallet.
+Without password imported keys will not be retrievable.
+"PW5JFu9fS21uCjP3eaPZnmWexCwgACn2FsvtqTTRiFtBTs3Ns2GQ5"
